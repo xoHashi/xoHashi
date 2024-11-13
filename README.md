@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xoHashi (Hashi Satria)
-- 👀 I’m interested in Philosphy  
+- 👀 I’m interested in Philosophy  
 - 🌱 I’m currently learning Python, HTML, & CSS
 - 😄 Pronouns: She/her
 
