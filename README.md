@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @xoHashi (Hashi Satria)
-- 👀 I’m interested in LEARNING PYTHON! 
-- 🌱 I’m currently learning PYTHON 
-- 📫 You can visit my tiktok, instagram, and twitter account!
+- 👀 I’m interested in Philosphy  
+- 🌱 I’m currently learning Python, HTML, & CSS
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love cats <3
 
 <!---
 xoHashi/xoHashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
